@@ -7,8 +7,7 @@ Aplicación construida con **React** para la prueba técnica de desarrollador fr
 
 ## 🚀 Demo en Vercel
 
-> *(Agrega aquí tu link cuando hagas el deploy)*  
-> https://crud-productos.vercel.app/
+> [ https://crud-productos.vercel.app/](https://crud-productos-react.vercel.app/)
 
 ---
 
